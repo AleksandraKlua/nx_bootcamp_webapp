@@ -1,0 +1,10 @@
+baseURL = "http://127.0.0.1/"
+languageCode = "en-us"
+title = "Posts"
+theme = "nix"
+
+[menu]
+  [[menu.header]]
+    name = "post"
+    weight = 0
+    url = "post"
