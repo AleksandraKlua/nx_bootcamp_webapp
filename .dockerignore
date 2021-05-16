@@ -1,0 +1,15 @@
+# Ignore .git files
+.git
+.gitignore
+LICENSE
+README.md
+
+# Ignore scripts dir
+scripts/
+
+# Ignore Dockerfile
+Dockerfile
+
+# Ignore files *.md for creating site
+public/
+
