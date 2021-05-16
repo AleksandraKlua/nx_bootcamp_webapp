@@ -1,0 +1,5 @@
+# Ignore public file with css-styles
+/public
+
+# Ignore archetypes for post-structure
+/archetypes
