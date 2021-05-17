@@ -1,5 +1,12 @@
 # Ignore public file with css-styles
+<<<<<<< HEAD
 public/
 
 # Ignore archetypes for post-structure
 archetypes/
+=======
+/public
+
+# Ignore archetypes for post-structure
+/archetypes
+>>>>>>> Add gitignore file
