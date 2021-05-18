@@ -6,9 +6,15 @@ For creating site it's necessary to download nix-theme as git-submodule, so get 
 git clone --recurse-submodule https://github.com/AleksandraKlua/nx_bootcamp_webapp
 ```
 ## Usage
-To build an image launch ```scripts/build.sh```.
+To build an image launch 
+```bash
+sh nx_bootcamp_webapp/scripts/build.sh
+```
 
-To run a container launch ```scripts/run.sh```.
+To run a container launch 
+```bash
+sh nx_bootcamp_webapp/scripts/run.sh
+```
 
 
 To see the site open your browser and enter the ```localhost:80```.
