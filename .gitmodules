@@ -1,0 +1,4 @@
+[submodule "themes/nix"]
+        path = themes_loc/nix
+
+
