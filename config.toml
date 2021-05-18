@@ -10,3 +10,6 @@ theme = "nix"
     url = "post"
 
 [params]
+  author="Somebody"
+  description="Something"
+  menu_item_separator=" - "
